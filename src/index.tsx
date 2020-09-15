@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-expressions */
 import * as React from 'react'
 
-export function useService<AllMethods>(allMethods?: AllMethods) {
+export function useLazyFetch<AllMethods>(allMethods?: AllMethods) {
   const [state, setState] = React.useState({
     isLoading: false,
     isError: null,

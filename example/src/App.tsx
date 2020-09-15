@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { useService } from 'use-lazy-fetch'
+import { useLazyFetch } from 'use-lazy-fetch'
 
 interface Todo {
   data: Array<{
@@ -17,7 +17,7 @@ const App = () => {
       .then((res) => res.json())
       .then((val) => val)
   }
-  const { query, isLoading } = useService()
+  const { query, isLoading } = useLazyFetch()
   const { data } = query<Todo>(fetchTodos, [], {
     withEffect: true
   })
