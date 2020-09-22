@@ -9,6 +9,10 @@
 ```bash
 npm install --save use-lazy-fetch
 ```
+or
+```bash
+yarn add use-lazy-fetch
+```
 
 ## Usage
 
