@@ -1,6 +1,6 @@
 # use-lazy-fetch
 
-> Performing Fetch Data without initializing state and worrying about useEffect
+> Performing Data Fetch without initializing state and worrying about useEffect
 
 [![NPM](https://img.shields.io/npm/v/use-lazy-fetch.svg)](https://www.npmjs.com/package/use-lazy-fetch) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
