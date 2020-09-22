@@ -1,6 +1,6 @@
 # use-lazy-fetch
 
-> Made with create-react-library
+> Performing Fetch Data without initializing state worrying about useEffect
 
 [![NPM](https://img.shields.io/npm/v/use-lazy-fetch.svg)](https://www.npmjs.com/package/use-lazy-fetch) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
