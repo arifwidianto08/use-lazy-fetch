@@ -16,7 +16,7 @@ or using `yarn`
 yarn add use-lazy-fetch
 ```
 
-## Usage
+## Usage 
 
 ```tsx
 import React from 'react'
