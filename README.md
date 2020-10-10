@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/use-lazy-fetch.svg)](https://www.npmjs.com/package/use-lazy-fetch) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Install
+## Install 
 
 ```bash
 npm install --save use-lazy-fetch
