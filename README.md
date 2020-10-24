@@ -1,3 +1,5 @@
+Owner: Arif Widianto
+
 # use-lazy-fetch
 
 > Performing Data Fetch without initializing state and worrying about useEffect
