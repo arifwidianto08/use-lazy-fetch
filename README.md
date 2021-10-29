@@ -58,4 +58,6 @@ export default App
 
 ## License
 
+Hacktoberfest is the best
+
 MIT © [arifwidianto08](https://github.com/arifwidianto08)
