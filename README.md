@@ -1,10 +1,12 @@
+Owner: Arif Widianto
+
 # use-lazy-fetch
 
 > Performing Data Fetch without initializing state and worrying about useEffect
 
 [![NPM](https://img.shields.io/npm/v/use-lazy-fetch.svg)](https://www.npmjs.com/package/use-lazy-fetch) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Install
+## Install 
 
 ```bash
 npm install --save use-lazy-fetch
@@ -16,7 +18,7 @@ or using `yarn`
 yarn add use-lazy-fetch
 ```
 
-## Usage
+## Usage 
 
 ```tsx
 import React from 'react'
@@ -59,5 +61,7 @@ export default App
 ## Hacktoberfest
 
 This line is for hacktoberfest thing
+
+Hacktoberfest is the best
 
 MIT © [arifwidianto08](https://github.com/arifwidianto08)
