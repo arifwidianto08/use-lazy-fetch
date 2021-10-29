@@ -56,4 +56,8 @@ export default App
 
 ## License
 
+## Hacktoberfest
+
+This line is for hacktoberfest thing
+
 MIT © [arifwidianto08](https://github.com/arifwidianto08)
